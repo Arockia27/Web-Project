@@ -1,0 +1,6 @@
+django
+pillow
+crispy-bootstrap5
+six
+
+pip install django pillow crispy-bootstrap5
